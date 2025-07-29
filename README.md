@@ -3,30 +3,15 @@ Here's an improved and more professional README.md for your Greenkeeper Backend 
 ```markdown
 # Greenkeeper Backend
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)](https://expressjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
-A robust backend service built with Express.js, providing API endpoints for the Greenkeeper application.
 
-## Features
+A robust backend service built with Express.js.
 
-- RESTful API design
-- JWT authentication
-- MongoDB integration
-- Error handling middleware
-- API documentation (Swagger/OpenAPI)
-- Environment configuration
+ Getting Started
 
-## 🚀 Getting Started
 
-### Prerequisites
 
-- Node.js 18+
-- npm 9+
-- MongoDB 6+
-
-### Installation
+ Installation
 
 1. Clone the repository:
    ```bash
@@ -41,12 +26,11 @@ A robust backend service built with Express.js, providing API endpoints for the 
 
 
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-
-## ✉️ Contact
+ ✉️ Contact
 
 **Muhammad Usama**  
 Backend Developer & Open Source Enthusiast  
