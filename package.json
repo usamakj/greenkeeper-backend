@@ -1,0 +1,27 @@
+{
+  "name": "greenkeeper-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for Greenkeeper App (Web + Mobile)",
+  "keywords": [
+    "app"
+  ],
+  "homepage": "https://github.com/usamakj/greenkeeper-backend#readme",
+  "bugs": {
+    "url": "https://github.com/usamakj/greenkeeper-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamakj/greenkeeper-backend.git"
+  },
+  "license": "ISC",
+  "author": "usama",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
