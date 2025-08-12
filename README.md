@@ -23,14 +23,7 @@ A robust backend service built with Express.js.
    npm install
    ```
 
-ya serf testing ka lya lekha hwa h aya line
 
-ya serf testing ka lya lekha hwa h aya line
-ya serf testing ka lya lekha hwa h aya line
-ya serf testing ka lya lekha hwa h aya line
-ya serf testing ka lya lekha hwa h aya line
-ya serf testing ka lya lekha hwa h aya line
-ya serf testing ka lya lekha hwa h aya line
 
 🤝 Contributing
 
@@ -44,7 +37,3 @@ Backend Developer & Open Source Enthusiast
 
 Feel free to reach out if you need any help with the project!
 ```
-
-New test update on Thu Jul 31 08:54:26 PDT 2025
-# dummy change
-Automatic build test at Thu Jul 31 11:45:18 PDT 2025
